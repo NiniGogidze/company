@@ -1,0 +1,129 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #679CF6;
+}
+
+.white-box {
+    Width: 511px;
+    height: 632px;
+    position: absolute;
+    left:  933px;
+    top: 66px;
+    border-radius: 5px;
+    background-color: #FFFFFF;;
+    z-index: 1;
+}
+
+.img {
+    width: 990px;
+    height: 555px;
+    top: 199px;
+    position: absolute;
+}
+
+h1 {
+    padding-top: 61px;
+    padding-left: 80px;
+}
+
+p {
+    padding-left: 80px;
+    color: #748AA1;
+}
+
+.box {
+    width: 431px;
+    height: 432px;
+    border: 1px solid #EBEDF4;
+    box-shadow: 5px 5px 5px #748AA1;
+    margin-left: 40px;
+    padding-top: 25px;
+    padding-left: 30px;
+}
+
+.input-name {
+    line-height: 17px;
+    width: 400px;
+    color: #748AA1;
+    font-size: 14px;
+}
+
+input {
+    width: 351px;
+    height: 51px;
+    border: 2px solid grey;
+    border-radius: 5px;
+}
+
+.form {
+    width: 180px;
+    height: 51px;
+}
+
+.container {
+    padding-top: 25px;
+   
+}
+
+.flex {
+    padding-top: 25px;
+}
+
+.zip {
+    padding-left: 190px;
+    position: absolute;
+    top: 330px;
+}
+
+.signup {
+    width: 371px;
+    height: 51px;
+    background-color:#29CB97;
+    border: none;
+    color: white;
+    font-size: 16px;
+    margin-top: 40px;
+    cursor: pointer;
+} 
+
+.facebook {
+    padding-left: 50px;
+    padding-top: 10px;
+}
+
+.blue {
+    width: 204px;
+    height: 60px;
+    background-color: #255B9B;
+    border: none;
+    color: #EBEDF4;
+    cursor: pointer;
+    font-size: 14px;
+    border-radius: 5px;
+}
+
+.sky {
+    width: 204px;
+    height: 60px;
+    background-color: #00ADEE;
+    border: none;
+    color: #EBEDF4;
+    cursor: pointer;
+    font-size: 14px;
+    border-radius: 5px;
+}
+
+
+
+
+
+
+
+
+
+
